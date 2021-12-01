@@ -11,6 +11,7 @@
 | 1.2 | 18.11.2021 |
 | 1.3 | 30.11.2021 |
 | 1.4 | 30.11.2021 |
+| 1.5 | 01.12.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -72,6 +73,6 @@ Dillinger uses a number of open source projects to work properly:
 
  [erd1]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ERD%20diagram.png>
  [erd2]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ORG%20diagram.png>
- [erd3]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ORG%20diagram.png>
+ [erd3]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/LAYOUT%20diagram.png>
 
  
