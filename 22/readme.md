@@ -1,12 +1,15 @@
-# something with museum
+#  The museum's collection inventory system
 
 ## _contractor: Dominik Warlikowski_
 ## _principal: Michał Czerwiński_
 
 
-| dossier version | date |
-| ------ | ------ |
-| 1.0 | 22.11.2021 |
+| dossier version | date | description |
+| ------ | ------ | ------ |
+| 1.0 | 22.11.2021 | none |
+| 1.1 | x.11.2021 | adding ERD |
+| 1.2 | x.11.2021 | adding organizational structure |
+| 1.3 | 1.12.2021 | adding layout form in HTML |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -40,6 +43,10 @@ The above functionalities are tested and work according to their roles.
 ## Organizational structure diagram
 
 [link to diagram OSD in jpg][osd]
+
+## Layout for form in HTML
+
+[link to layout][layout]
 
 ## Cpecific functionalities
 
