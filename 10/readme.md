@@ -9,6 +9,7 @@
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 17.11.2021 | adding ERD |
 | 1.2 | 30.11.2021 | adding Org |
+| 1.3 | 01.12.2021 | adding form |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
