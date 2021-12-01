@@ -21,7 +21,7 @@ The project is about a system that involves recognizing facial expressions in va
 
 | data | type |
 | ------ | ------ |
-| INPUT | data form, images |
+| INPUT | images |
 | OUTPUT | data form, description |
 
 ## Main functionalities
@@ -41,7 +41,13 @@ The above functionalities are tested and work according to their roles.
 
 [Link to diagram ERD in png.][erd1]
 
+## ORG
+
 [Link to diagram ORG in png.][erd2]
+
+## Layout
+
+[Link to diagram Layout in png.][erd3]
 
 ## Cpecific functionalities
 
@@ -66,5 +72,6 @@ Dillinger uses a number of open source projects to work properly:
 
  [erd1]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ERD%20diagram.png>
  [erd2]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ORG%20diagram.png>
+ [erd3]: <https://github.com/Michal3456/3ai4/blob/main/5/sprites/ORG%20diagram.png>
 
  
