@@ -81,7 +81,7 @@ A subsection that presents a detailed description of the individual functionalit
 
  [erd]: <https://github.com/Michal3456/3ai4/blob/main/10/Diagram%20ERD.jpg>
  
- [osd]: <https://github.com/Michal3456/3ai4/blob/main/10/sprites/obraz_2021-11-30_164519.png>
+ [osd]: <https://github.com/Michal3456/3ai4/blob/main/10/sprites/Org.png>
  
  [form]: <https://github.com/Michal3456/3ai4/blob/main/10/sprites/form.png>
  
