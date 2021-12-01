@@ -34,7 +34,7 @@ The above functionalities are tested and work according to their roles.
 > As a contractor on the project, I certify that the above functionality 
 > does not compromise cyberspace or any other space of any state. 
 > The code contained in the project, does not contain malware and is safe to use. 
-> I am personally responsible for its operation: Jan Kowalski.
+> I am personally responsible for its operation: Filip Jaszewski.
 
 ## Entity Relationship Diagram
 
@@ -44,7 +44,8 @@ The above functionalities are tested and work according to their roles.
 
 [link to diagram in jpg][osd]
 
-
+## Html file
+No html is needed.
 
 ## Cpecific functionalities
 
