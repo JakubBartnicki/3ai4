@@ -80,7 +80,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <>
+ [erd]: <https://github.com/Michal3456/3ai4/blob/main/2/diagram%20erd.png>
  
  [osd]: <https://github.com/Michal3456/3ai4/blob/main/2/org.drawio.png>
  
