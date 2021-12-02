@@ -32,7 +32,11 @@
 <tr>
 <td>1.3</td>
 <td>01.12.2021</td>
-</tr>    
+</tr>
+<tr>
+<td>1.4</td>
+<td>02.12.2021</td>
+</tr>      
 </tbody>
 </table>
 <p dir="auto"><a href="https://travis-ci.org/joemccann/dillinger" rel="nofollow"><img src="https://camo.githubusercontent.com/c29bc856325cd819f5a3bb6536b7982f04a161e656de066c4c970e0079c14ff5/68747470733a2f2f7472617669732d63692e6f72672f6a6f656d6363616e6e2f64696c6c696e6765722e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" style="max-width: 100%;"></a></p>
