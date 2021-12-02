@@ -9,6 +9,7 @@
 | 1.0 | 17.11.2021 |
 | 1.1 | 22.11.2021 |
 | 1.2 | 30.11.2021 |
+| 1.3 | 02.12.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -47,6 +48,9 @@ The above functionalities are tested and work according to their roles.
 ## Html file
 No html is needed.
 
+## Sketch a database without establishing a relationship
+[link to diagram in png][db]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -70,3 +74,4 @@ Dillinger uses a number of open source projects to work properly:
 
  [erd]: <https://github.com/Michal3456/3ai4/blob/main/7/sprites/Diagram.jpg>
  [osd]: <https://github.com/Michal3456/3ai4/blob/main/7/sprites/Diagram2.jpg>
+ [db]: <https://github.com/Michal3456/3ai4/tree/main/7/sprites/Diagram3.png>
