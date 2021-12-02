@@ -10,6 +10,7 @@
 | 1.1 | x.11.2021 | adding ERD |
 | 1.2 | x.11.2021 | adding organizational structure |
 | 1.3 | 1.12.2021 | adding layout form in HTML |
+| 1.4 | 02.12.2021 | database with only tables - sketch a database without establishing a relationship |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -48,6 +49,10 @@ The above functionalities are tested and work according to their roles.
 
 [link to layout][layout]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -72,3 +77,4 @@ Dillinger uses a number of open source projects to work properly:
  [erd]: <https://github.com/Michal3456/3ai4/tree/main/22/Diagram ERD.jpg>
  [osd]: <https://github.com/Michal3456/3ai4/blob/main/22/sprites/org.drawio.png>
  [layout]:<https://github.com/Michal3456/3ai4/blob/main/22/sprites/layout.png>
+ [db]: <https://github.com/Michal3456/3ai4/blob/main/22/sprites/sketch%20database.png>
