@@ -90,7 +90,7 @@ A subsection that presents a detailed description of the individual functionalit
  
  [Erd3]: <https://github.com/Michal3456/3ai4/blob/main/6/layout.png>
  
- [db]: <>
+ [db]: <https://github.com/Michal3456/3ai4/blob/main/6/database.png>
  
  [wireframeMain]: <>
  
