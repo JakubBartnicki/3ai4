@@ -81,7 +81,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/3ai4/blob/main/10/Diagram%20ERD.jpg>
+ [erd]: <https://github.com/Michal3456/3ai4/blob/main/10/sprites/Diagram%20ERD.jpg>
  
  [osd]: <https://github.com/Michal3456/3ai4/blob/main/10/sprites/Org.png>
  
