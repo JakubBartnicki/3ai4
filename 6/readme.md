@@ -84,14 +84,14 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [org]: < >
+ [org]: < https://github.com/Michal3456/3ai4/blob/main/6/org%20chart.png>
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <>
  
  [Erd3]: <https://github.com/Michal3456/3ai4/blob/main/6/layout.png>
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
+ [db]: <>
  
- [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
+ [wireframeMain]: <>
  
- [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
+ [wireframeExample]: <>
