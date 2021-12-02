@@ -22,7 +22,7 @@ The project concerns a system that allows searching for objects in an online mus
 
 | data | type |
 | ------ | ------ |
-| INPUT | data form, images |
+| INPUT | data form |
 | OUTPUT | images with short descriptions |
 
 ## Main functionalities
