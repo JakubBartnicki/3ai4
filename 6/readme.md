@@ -86,7 +86,7 @@ A subsection that presents a detailed description of the individual functionalit
 
  [org]: < https://github.com/Michal3456/3ai4/blob/main/6/org%20chart.png>
  
- [osd]: <>
+ [erd]: <https://github.com/Michal3456/3ai4/blob/main/6/Untitled%20Diagram.drawio.png>
  
  [Erd3]: <https://github.com/Michal3456/3ai4/blob/main/6/layout.png>
  
