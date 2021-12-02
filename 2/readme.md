@@ -49,6 +49,10 @@ The above functionalities are tested and work according to their roles.
 
 [link to layout jpg][Layout]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database.jpg][db]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -90,7 +94,7 @@ A subsection that presents a detailed description of the individual functionalit
  
  [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
+ [db]: <https://github.com/Michal3456/3ai4/blob/main/2/skechtdatabase.png>
  
  [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
  
