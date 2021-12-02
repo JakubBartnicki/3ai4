@@ -8,8 +8,9 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 17.11.2021 | adding ERD |
-| 1.2 | 30.11.2021 | adding Org |
-| 1.3 | 01.12.2021 | adding form |
+| 1.2 | 30.11.2021 | adding organizational structure |
+| 1.3 | 01.12.2021 | adding layout form in HTML |
+| 1.4 | 02.12.2021 | database with only tables - sketch a database without establishing a relationship |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -86,7 +87,7 @@ A subsection that presents a detailed description of the individual functionalit
  
  [form]: <https://github.com/Michal3456/3ai4/blob/main/10/sprites/form.png>
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
+ [db]: <https://github.com/Michal3456/3ai4/blob/main/10/sprites/database.png>
  
  [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
  
