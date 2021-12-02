@@ -16,7 +16,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-
+This project shows the locations of GPS devices
 
 ## Data structure
 
