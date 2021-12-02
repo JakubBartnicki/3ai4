@@ -47,7 +47,7 @@ The above functionalities are tested and work according to their roles.
 
 ## Organizational structure diagram
 
-[link to diagram OSD in jpg][osd]
+[link to diagram OSD in png][org]
 
 ## Cpecific functionalities
 
@@ -70,7 +70,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 ## Layout for form in HTML
 
-[link to layout][form]
+[Link to diagram layout][Erd3]
 
 ## Sketch a database without establishing a relationship
 
@@ -84,11 +84,11 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ [org]: < >
  
  [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
  
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
+ [Erd3]: < https://github.com/Michal3456/3ai4/blob/main/6/layout.png 9>
  
  [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
  
